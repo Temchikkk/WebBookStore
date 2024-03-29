@@ -1,0 +1,49 @@
+@import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #a2ccde;
+}
+
+header {
+    
+    background-color: #1e3d59;
+    color: #fff;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
+
+.book {
+    margin-bottom: 20px;
+}
+
+.book img {
+    max-width: 100%;
+}
+
+footer {
+    background-color: #1e3d59;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
